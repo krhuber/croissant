@@ -8,14 +8,14 @@ footer {
   display: block;
   text-align: center;
 }
-a {
+footer a {
   color: green;
   margin: 0 10px;
 }
-img {
-  max-width: 500px;
+.croissant-photo {
+  width: 600px;
   border-radius: 10px;
-  margin-bottom: 20px;
+  margin: 20px auto;
 }
 .email-link {
   color: blue;
